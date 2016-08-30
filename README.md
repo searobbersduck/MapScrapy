@@ -7,9 +7,11 @@
 
 ## CrawlFactoryInfoDemo
 
-1. 注册高的地图用户，申请key
+1. [注册高的地图用户，申请key](http://lbs.amap.com/api/webservice/reference/search/#t5)
 2. 将代码中的key换成step1申请的key：
+
 <img src='./Pic/change_your_key.png'>
+
 3. 运行Demo
 ```
 python ./CrawlFactoryInfoDemo.py
